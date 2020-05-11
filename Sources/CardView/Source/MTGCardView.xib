@@ -18,7 +18,7 @@
         </array>
     </customFonts>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CardView">
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MTGCardView">
             <connections>
                 <outlet property="artImageView" destination="9tz-QW-7Tr" id="kVq-MK-WKQ"/>
                 <outlet property="artViewCenterYConstraint" destination="0xe-Nj-Qv6" id="dRQ-RJ-2t7"/>

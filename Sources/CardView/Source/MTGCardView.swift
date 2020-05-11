@@ -14,7 +14,7 @@ fileprivate func UIImage(named name: String) -> UIImage? {
 	return UIImage(named: name, in: bundle, compatibleWith: nil)
 }
 
-public class CardView: UIView {
+public class MTGCardView: UIView {
 	
 	public struct CardProperties {
 		public var name: String?
